@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fickleee（Zihan Xu）
-- 👀 I’m interested in information visualization, time series visualization
+- 👀 I’m interested in Data visualization, time series visualization
 - 🌱 I’m currently learning React, Tailwind CSS, TypeScript, D3
 - 📫 How to reach me: fickle809@gmail.com or 2437832168@qq.com
 
@@ -16,7 +16,6 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
   
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 
 
 <!---
